@@ -1,10 +1,17 @@
-# Some Notes
+Some Notes
+==========
 Some Notes about different topics
 
 HTR
 ===
 
 - [lattice gen high entropy samples](lattice_gen.md)
+
+UNIX Tips and Tricks
+====================
+
+- [MISC](bash_misc.md)
+
 
 VIM
 ===
