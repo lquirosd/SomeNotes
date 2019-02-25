@@ -26,6 +26,13 @@ A couple of tool I found very useful for it are:
     ```bash
     z=
     ```
+    - Set highlighting colors (on ``~/.vimrc`` file):
+    ```bash
+    "--- for errors related to local languaje differences (e.g. color vs colour) "
+    highlight SpellLocal ctermfg=White term=Reverse ctermbg=Green
+    "--- for errors realted to capitalization (e.g. . example --> . Example) "
+    highlight SpellCap ctermfg=White term=Reverse ctermbg=Blue
+    ```
 2. Vim grammar checker
     This tool integrates [LanguageTool](https://www.languagetool.org/) into Vim.
     For installation instructions [see the docs](https://www.vim.org/scripts/script.php?script_id=3223).
@@ -45,4 +52,5 @@ A couple of tool I found very useful for it are:
     ```bash
     :LanguageToolClear
     ```
+
 
