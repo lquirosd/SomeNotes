@@ -13,7 +13,7 @@ line separately and use a max time bound to process it.
 
 Sample code:
 
-> For info about parallel execution using ``RunLOCKED``` see [FIFO Bash Parallel](bash_parallel.md)
+> For info about parallel execution using ``RunLOCKED`` see [FIFO Bash Parallel](bash_parallel.md)
 
 ```bash
 work_folder=<SOME FOLDER>;
