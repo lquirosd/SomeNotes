@@ -6,6 +6,11 @@ HTR
 
 - [lattice gen high entropy samples](lattice_gen.md)
 
+VIM
+===
+- [Grammar checker](vim_grammar.md)
+
+
 MISC
 ====
 
